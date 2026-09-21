@@ -1,0 +1,15 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t">
+<title id="t">ManYaro Tech – Automatización Con Ia</title>
+<defs>
+<linearGradient id="marca" x1="0" y1="0" x2="1" y2="0.36"><stop offset="0" stop-color="#f0527a"/><stop offset="1" stop-color="#7c5cff"/></linearGradient>
+<radialGradient id="brilloRosa" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#f0527a" stop-opacity="0.22"/><stop offset="1" stop-color="#f0527a" stop-opacity="0"/></radialGradient>
+<radialGradient id="brilloVioleta" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#7c5cff" stop-opacity="0.26"/><stop offset="1" stop-color="#7c5cff" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="300" fill="#1b1b22"/>
+<ellipse cx="140" cy="300" rx="420" ry="220" fill="url(#brilloRosa)"/>
+<ellipse cx="1080" cy="0" rx="460" ry="240" fill="url(#brilloVioleta)"/>
+<rect width="1200" height="6" fill="url(#marca)"/>
+<text x="600" y="112" text-anchor="middle" font-family="'Space Grotesk', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="7" fill="url(#marca)">MANYARO TECH</text>
+<text x="600" y="188" text-anchor="middle" font-family="'Space Grotesk', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="72" font-weight="700" letter-spacing="1" fill="#ffffff">AUTOMATIZACIÓN CON IA</text>
+<text x="600" y="238" text-anchor="middle" font-family="'DM Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="400" letter-spacing="0.5" fill="#a9a7b5">n8n | Agentes IA | Bots a medida</text>
+</svg>
