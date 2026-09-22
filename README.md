@@ -135,6 +135,24 @@ El director de orquesta: reparte el trabajo entre agentes, decide el orden y une
   <img src="https://img.shields.io/badge/Google_Cloud-1b1b22?style=for-the-badge&logo=googlecloud&logoColor=f0527a" alt="Google Cloud">
 </p>
 
+<p align="center"><sub>Frontend</sub></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-1b1b22?style=for-the-badge&logo=react&logoColor=7c5cff" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-1b1b22?style=for-the-badge&logo=nextdotjs&logoColor=f0527a" alt="Next.js">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-1b1b22?style=for-the-badge&logo=tailwindcss&logoColor=7c5cff" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/TypeScript-1b1b22?style=for-the-badge&logo=typescript&logoColor=f0527a" alt="TypeScript">
+</p>
+
+<p align="center"><sub>Backend</sub></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-1b1b22?style=for-the-badge&logo=nodedotjs&logoColor=7c5cff" alt="Node.js">
+  <img src="https://img.shields.io/badge/PostgreSQL-1b1b22?style=for-the-badge&logo=postgresql&logoColor=f0527a" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Supabase-1b1b22?style=for-the-badge&logo=supabase&logoColor=7c5cff" alt="Supabase">
+  <img src="https://img.shields.io/badge/Docker-1b1b22?style=for-the-badge&logo=docker&logoColor=f0527a" alt="Docker">
+</p>
+
 <p align="center"><sub>CON QUÉ TRABAJAMOS</sub></p>
 
 <p align="center">
@@ -146,6 +164,12 @@ El director de orquesta: reparte el trabajo entre agentes, decide el orden y une
   <img src="https://img.shields.io/badge/Obsidian-1b1b22?style=for-the-badge&logo=obsidian&logoColor=f0527a" alt="Obsidian">
   <img src="https://img.shields.io/badge/Ollama-1b1b22?style=for-the-badge&logo=ollama&logoColor=7c5cff" alt="Ollama">
   <img src="https://img.shields.io/badge/Cloudflare-1b1b22?style=for-the-badge&logo=cloudflare&logoColor=f0527a" alt="Cloudflare">
+  <img src="https://img.shields.io/badge/LangChain-1b1b22?style=for-the-badge&logo=langchain&logoColor=7c5cff" alt="LangChain">
+  <img src="https://img.shields.io/badge/Perplexity-1b1b22?style=for-the-badge&logo=perplexity&logoColor=f0527a" alt="Perplexity">
+  <img src="https://img.shields.io/badge/Cursor-1b1b22?style=for-the-badge&logo=cursor&logoColor=7c5cff" alt="Cursor">
+  <img src="https://img.shields.io/badge/ElevenLabs-1b1b22?style=for-the-badge&logo=elevenlabs&logoColor=f0527a" alt="ElevenLabs">
+  <img src="https://img.shields.io/badge/Make-1b1b22?style=for-the-badge&logo=make&logoColor=7c5cff" alt="Make">
+  <img src="https://img.shields.io/badge/Midjourney-1b1b22?style=for-the-badge&logo=midjourney&logoColor=f0527a" alt="Midjourney">
 </p>
 
 <img src="assets/divider.svg" width="100%" height="4" alt="">
