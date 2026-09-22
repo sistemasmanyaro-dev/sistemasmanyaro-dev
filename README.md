@@ -16,7 +16,9 @@
   construidos para que los use cualquier persona del equipo, sin depender de nosotros.
 </p>
 
-<img src="assets/divider.svg" width="100%" height="4" alt="">
+<p align="center">
+  <img src="assets/flow-hero.svg" width="100%" alt="Flujo: correo, IA, acción, negocio">
+</p>
 
 <br>
 
@@ -24,28 +26,28 @@
 <tr>
 <td width="25%" valign="top">
 
-**Flujos con IA**
+<img src="assets/pulse-dot.svg" width="10" height="10" valign="middle" alt=""> **Flujos con IA**
 
 Clasificación, redacción y automatización de tareas repetitivas sobre n8n.
 
 </td>
 <td width="25%" valign="top">
 
-**Bots a medida**
+<img src="assets/pulse-dot.svg" width="10" height="10" valign="middle" alt=""> **Bots a medida**
 
 Correo, WhatsApp, Telegram, voz — siempre con una persona revisando antes de enviar.
 
 </td>
 <td width="25%" valign="top">
 
-**Integraciones**
+<img src="assets/pulse-dot.svg" width="10" height="10" valign="middle" alt=""> **Integraciones**
 
 CRMs, calendarios, facturación: lo que ya use cada negocio, sin migraciones forzadas.
 
 </td>
 <td width="25%" valign="top">
 
-**Dominios y páginas web**
+<img src="assets/pulse-dot.svg" width="10" height="10" valign="middle" alt=""> **Dominios y páginas web**
 
 Registro y gestión de dominios, y creación de páginas web para negocios locales.
 
@@ -54,28 +56,28 @@ Registro y gestión de dominios, y creación de páginas web para negocios local
 <tr>
 <td width="25%" valign="top">
 
-**Gestión de correo**
+<img src="assets/pulse-dot.svg" width="10" height="10" valign="middle" alt=""> **Gestión de correo**
 
 Bandejas de entrada organizadas con IA: clasificación automática y borradores de respuesta.
 
 </td>
 <td width="25%" valign="top">
 
-**Dashboards a medida**
+<img src="assets/pulse-dot.svg" width="10" height="10" valign="middle" alt=""> **Dashboards a medida**
 
 Paneles personalizados para que cada negocio vea sus datos importantes de un vistazo.
 
 </td>
 <td width="25%" valign="top">
 
-**Automatizaciones para empresas**
+<img src="assets/pulse-dot.svg" width="10" height="10" valign="middle" alt=""> **Automatizaciones para empresas**
 
 Automatizaciones a medida que ahorran tiempo del equipo y aumentan el beneficio.
 
 </td>
 <td width="25%" valign="top">
 
-**¿Hablamos?**
+<img src="assets/pulse-dot.svg" width="10" height="10" valign="middle" alt=""> **¿Hablamos?**
 
 <a href="https://www.manyaro.es"><img src="https://img.shields.io/badge/Visítanos-f0527a?style=for-the-badge" alt="Visítanos en manyaro.es"></a>
 
