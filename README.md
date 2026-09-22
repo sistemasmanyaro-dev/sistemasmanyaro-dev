@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1200&color=F0527A&background=1B1B22&center=true&vCenter=true&width=560&height=45&lines=IA+que+trabaja+para+tu+negocio%2C+no+al+rev%C3%A9s." alt="IA que trabaja para tu negocio, no al revés.">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1000&color=F0527A&background=1B1B22&center=true&vCenter=true&width=600&height=45&lines=IA+que+trabaja+para+tu+negocio%2C+no+al+rev%C3%A9s.;Flujos%2C+bots+y+dashboards+a+medida.;Domina+tu+bandeja+de+entrada+con+IA.;Dominios+y+webs+para+negocios+locales." alt="IA que trabaja para tu negocio, no al revés.">
 </p>
 
 <p align="center">
@@ -15,6 +15,8 @@
   Automatizamos negocios locales con IA: bots, flujos, páginas web y dashboards a medida,<br>
   construidos para que los use cualquier persona del equipo, sin depender de nosotros.
 </p>
+
+<img src="assets/divider.svg" width="100%" height="4" alt="">
 
 <br>
 
@@ -81,6 +83,8 @@ Automatizaciones a medida que ahorran tiempo del equipo y aumentan el beneficio.
 </tr>
 </table>
 
+<img src="assets/divider.svg" width="100%" height="4" alt="">
+
 <br>
 
 <p align="center"><sub>STACK CON EL QUE CONSTRUIMOS</sub></p>
@@ -105,5 +109,7 @@ Automatizaciones a medida que ahorran tiempo del equipo y aumentan el beneficio.
   <img src="https://img.shields.io/badge/Ollama-1b1b22?style=for-the-badge&logo=ollama&logoColor=7c5cff" alt="Ollama">
   <img src="https://img.shields.io/badge/Cloudflare-1b1b22?style=for-the-badge&logo=cloudflare&logoColor=f0527a" alt="Cloudflare">
 </p>
+
+<img src="assets/divider.svg" width="100%" height="4" alt="">
 
 <p align="center"><sub>© 2026 ManYaro Tech. Hecho en España.</sub></p>
