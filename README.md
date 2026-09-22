@@ -89,6 +89,42 @@ Automatizaciones a medida que ahorran tiempo del equipo y aumentan el beneficio.
 
 <br>
 
+<p align="center"><sub>ARQUITECTURAS DE IA QUE CONSTRUIMOS</sub></p>
+
+<p align="center">
+  <img src="assets/agent-hub.svg" width="70%" alt="Un orquestador de IA repartiendo tareas entre varios agentes, dentro de una agencia de IA">
+</p>
+
+<table align="center">
+<tr>
+<td width="33%" valign="top">
+
+<img src="assets/pulse-dot.svg" width="10" height="10" valign="middle" alt=""> **Agencias de IA**
+
+Equipos de agentes especializados trabajando juntos, coordinados de principio a fin para completar tareas complejas.
+
+</td>
+<td width="33%" valign="top">
+
+<img src="assets/pulse-dot.svg" width="10" height="10" valign="middle" alt=""> **Agentes de IA**
+
+Asistentes autónomos que ejecutan una tarea concreta — investigar, redactar, clasificar, actuar — con las herramientas que necesiten.
+
+</td>
+<td width="33%" valign="top">
+
+<img src="assets/pulse-dot.svg" width="10" height="10" valign="middle" alt=""> **Orquestadores de IA**
+
+El director de orquesta: reparte el trabajo entre agentes, decide el orden y une los resultados.
+
+</td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" height="4" alt="">
+
+<br>
+
 <p align="center"><sub>STACK CON EL QUE CONSTRUIMOS</sub></p>
 
 <p align="center">
